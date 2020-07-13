@@ -1,1 +1,9 @@
 /* You can add global styles to this file, and also import other style files */
+body{
+    background-color: rgba(12, 179, 230, 0.267);
+}
+
+.hover-cursor{
+    cursor: pointer;
+}
+
